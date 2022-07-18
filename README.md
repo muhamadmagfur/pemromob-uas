@@ -2,7 +2,7 @@
 
 Muhamad Magfur 20190801021
 
-## Getting Started
+## Aplikasi CRUD sederhana mahasiswa
 
 This project is a starting point for a Flutter application.
 
