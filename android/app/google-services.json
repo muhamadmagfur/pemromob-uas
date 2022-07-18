@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297487911998",
+    "project_id": "tesuas-pemob",
+    "storage_bucket": "tesuas-pemob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297487911998:android:f6db28874f9616af02d56f",
+        "android_client_info": {
+          "package_name": "com.example.tesuas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297487911998-n49pqsqe6opud78js5hl58hecp337ugv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Tc7s6baEDHIQB8Wjqq4Dt5Jk-xZwMjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297487911998-n49pqsqe6opud78js5hl58hecp337ugv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
